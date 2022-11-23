@@ -1,27 +1,24 @@
-Day1- C basics-
-github URL
-https://github.com/YogeshRaje/KPRIET_C
-
-Download and install Dev c++ 5.11 
+Task1- Download and install Dev c++ 5.11 
 https://sourceforge.net/projects/orwelldevcpp/
 
 
-Download gcc complier for windows 
+Task2- Download and install gcc complier for windows 
 https://sourceforge.net/projects/mingw/
 
-Set system path of enviornment varable to 
+**Set system path of enviornment varable to 
 C:\MinGW\bin
 
-Write c code using any editor 
 
-compile code suing gcc editor 
-
-GCC- GNU() Compiler collection
-For c files 
-gcc filename.c -o filename
-filename
+Task3 -Write c code using any editor and compile code using gcc (GCC- GNU Compiler collection) 
+**For c files **
+open command prompt 
+$cmd 
+go to directory structure where your programs ar saved 
+$ cd F:\KPR\Day1
+$ gcc filename.c -o filename
+$ filename
 
  
-for c++ file 
-g++ filename.cpp -o filename
-filename 
+**for c++ file **
+$ g++ filename.cpp -o filename
+$ filename 
