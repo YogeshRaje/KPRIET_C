@@ -56,3 +56,22 @@ To get access of GPU
 >clinfo –l 
 >exit
 >qstat
+
+
+===============================
+
+
+Task4) Provide Feedback of 5 days workshop
+1)open portal  lms.fice.in and LogIn with your credintials
+2)From Menu click on Course and select your collage name KPR Intstitute C Programming (Students)
+3)click on Feedback to provide feedback about 5 days workshop.
+
+
+
+Task5) Attempt Quiz 
+1)open portal  lms.fice.in and LogIn with your credintials
+2)From Menu click on Course and select your collage name KPR Intstitute C Programming (Students)
+3)Click on Quiz to give Quiz
+
+
+
